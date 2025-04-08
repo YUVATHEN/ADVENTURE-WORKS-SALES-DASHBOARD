@@ -1,6 +1,7 @@
 Welcome to the Adventure Works Sales Dashboard project! This dashboard provides an insightful analysis of sales data from Adventure Works, a company specializing in products for outdoor activities like hiking, cycling, and picnics.
 
-🚀 Project Overview
+🚀 Project Overview :
+
 This project was developed using Microsoft Power BI and is based on the Adventure Works Sales dataset. The objective was to build a comprehensive and interactive dashboard for stakeholders at different levels — from executives to sales teams and analysts — to explore sales performance, customer behavior, and product insights.
 
 🛠 Tools & Techniques Used
